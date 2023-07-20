@@ -1,0 +1,11 @@
+{
+  "name": "@faisal78123/scaling-octo-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
